@@ -7,8 +7,9 @@ This action sets up MSBuild.exe as a CLI tool for use in actions by:
 
 ## Status: Archived
 This GitHub action is now retired/archived as I have collobrated directly with Microsoft to release an official MSBuild GitHub Action
-https://github.com/microsoft/setup-msbuild
-https://github.com/marketplace/actions/setup-msbuild-exe
+- https://github.com/microsoft/setup-msbuild
+- https://github.com/marketplace/actions/setup-msbuild
+
 
 
 # Usage
